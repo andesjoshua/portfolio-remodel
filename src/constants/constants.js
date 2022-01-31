@@ -37,8 +37,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Started my journey', },
-  { year: 2020, text: 'Worked as a freelance developer', },
-  { year: 2021, text: 'Founded JavaScript Mastery', },
-  { year: 2022, text: 'Shared my projects with the world', }
+  { year: 2019, text: 'Took an interest in tech and enrolled in a 2 year CS degree program', },
+  { year: 2020, text: 'Worked toward an A.S. in CS while working part time', },
+  { year: 2021, text: 'Enrolled in Flatiron School after graduating with my A.S. in CS', },
+  { year: 2022, text: 'Graduated Flatiron School, continue to learn more and work on/with new and intersting technologies', }
 ];
